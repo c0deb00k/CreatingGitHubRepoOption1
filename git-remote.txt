@@ -1,0 +1,2 @@
+git remote -v
+    prikaži remote-ove i njihove adrese
